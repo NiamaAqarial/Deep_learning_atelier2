@@ -11,6 +11,8 @@ The main purpose of this lab is to get familiar with the PyTorch library, build 
 ## Dataset
 - **MNIST Dataset**: Sourced from [Kaggle](https://www.kaggle.com/datasets/hojjatk/mnist-dataset).
 - Contains 60,000 training images and 10,000 test images of handwritten digits (0-9), each 28x28 pixels in grayscale.
+<img width="1136" height="478" alt="image" src="https://github.com/user-attachments/assets/b0fc6873-1d30-4a8d-a76b-03a6cb8c0c60" />
+
 
 ## Work Done
 
@@ -98,8 +100,7 @@ During this lab, I gained hands-on experience with PyTorch for building and trai
 
 ## Repository Structure
 - `all.py`: Complete code for data loading, model implementations, training, evaluation, and visualizations.
-- `model_comparison.png`: Generated comparison charts.
-- `sample_images.png`: Sample MNIST visualizations (generated in code).
 - `README.md`: This report.
 
 For full code execution, run in a Kaggle notebook with the MNIST dataset attached.
+https://www.kaggle.com/datasets/hojjatk/mnist-dataset/data
